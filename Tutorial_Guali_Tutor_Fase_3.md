@@ -152,6 +152,17 @@ Una tarjeta muestra los mensajes de compilación o la salida de demostración.
 
 **Captura 4.** Insertar una captura de la interfaz Android en ejecución o una vista previa real de Android Studio. No sustituirla por una imagen ilustrativa.
 ![Ventana de ayuda de Guali Tutor](ayuda-guali-tutor.png)
+![Lecciones disponibles](lecciones-guali-tutor.png)
+
+![Historial de Guali Tutor](historial-guali-tutor.png)
+
+![Configuración de Guali Tutor](configuracion-guali-tutor.png)
+
+![Compilación de código](compilar-guali-tutor.png)
+
+![Ejecución de código](ejecutar-guali-tutor.png)
+
+![Ayuda de Guali Tutor](ayuda-guali-tutor.png)
 
 ## 7. Configurar la compilación automática en GitHub Actions
 
